@@ -1,0 +1,17 @@
+{
+    "name": "anahi/tuki-tienda",
+    "description": "Proyecto práctico de una tienda online desarrollada con PHP, correspondiente al curso Aceleración Tech - PHP & Laravel | La Pampa, utilizando como caso de estudio el emprendimiento Tuki Estudio.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Anahi\\TukiTienda\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "afgamalerio",
+            "email": "anahifernandezg@gmail.com"
+        }
+    ],
+    "require": {}
+}

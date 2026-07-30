@@ -61,4 +61,24 @@ class Producto
     {
         return $this->precio;
     }
+
+    public function getNombre(): string
+    {
+        return $this->nombre;
+    }
+
+    public function getDescripcion(): string
+    {
+        return $this->descripcion;
+    }
+
+    public function getStock(): int
+    {
+        return $this->stock;
+    }
+
+    public function getColor(): string
+    {
+        return $this->color;
+    }
 }
